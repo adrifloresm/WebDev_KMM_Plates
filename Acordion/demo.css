@@ -1,0 +1,22 @@
+#accordion {
+	margin:20px 0px;
+        width:150px;
+}
+
+h3.toggler {
+	cursor: pointer;
+
+	font-family:tahoma;
+	font-size: 12px;
+        background:silver;
+	margin: 0 0 4px 0;
+	padding: 3px 5px 1px;
+}
+
+div.element p, div.element h4 {
+	margin:0px;
+	padding:4px;
+        color:maroon;
+        font-family:tahoma;
+        font-size:10px;
+}
